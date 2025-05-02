@@ -56,6 +56,8 @@ jobs:
         run: pipenv install selenium
       - name: Update
         run: pipenv run dev
+      - name: Generate user_result.json
+        run: pipenv run python create_json.py
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
