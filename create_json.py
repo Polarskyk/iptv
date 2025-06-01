@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 def create_json():
     # 读取 user_result.txt 文件内容
-    with open('./output/ipv4/result.txt', 'r', encoding='utf-8') as f:
+    with open('./output/ipv6/result.txt', 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
     # 初始化与 2.json 类似的结构
