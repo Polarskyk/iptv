@@ -1412,6 +1412,13 @@
                     ]
                 },
                 {
+                    "name": "衢江新闻综合",
+                    "tvg_name": "衢江新闻综合",
+                    "urls": [
+                        "http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8"
+                    ]
+                },
+                {
                     "name": "永嘉新闻综合",
                     "tvg_name": "永嘉新闻综合",
                     "urls": [
@@ -1459,13 +1466,6 @@
                     "urls": [
                         "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
                         "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl"
-                    ]
-                },
-                {
-                    "name": "上虞新商都",
-                    "tvg_name": "上虞新商都",
-                    "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed"
                     ]
                 },
                 {
@@ -1601,13 +1601,6 @@
                     "tvg_name": "无锡娱乐",
                     "urls": [
                         "http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708"
-                    ]
-                },
-                {
-                    "name": "无锡生活",
-                    "tvg_name": "无锡生活",
-                    "urls": [
-                        "http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708"
                     ]
                 },
                 {
