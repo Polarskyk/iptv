@@ -296,13 +296,6 @@
                     ]
                 },
                 {
-                    "name": "CETV1",
-                    "tvg_name": "CETV1",
-                    "urls": [
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8"
-                    ]
-                },
-                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -1384,39 +1377,17 @@
             "group": "浙江频道",
             "channels": [
                 {
-                    "name": "浙江钱江",
-                    "tvg_name": "浙江钱江",
-                    "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
-                    ]
-                },
-                {
-                    "name": "浙江钱江都市",
-                    "tvg_name": "浙江钱江都市",
-                    "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed"
-                    ]
-                },
-                {
                     "name": "浙江钱江台",
                     "tvg_name": "浙江钱江台",
                     "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=",
                         "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
                     ]
                 },
                 {
-                    "name": "浙江经济",
-                    "tvg_name": "浙江经济",
+                    "name": "诸暨新闻综合",
+                    "tvg_name": "诸暨新闻综合",
                     "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
-                    ]
-                },
-                {
-                    "name": "浙江数码时代",
-                    "tvg_name": "浙江数码时代",
-                    "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+                        "http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4"
                     ]
                 },
                 {
@@ -1495,6 +1466,13 @@
                     "urls": [
                         "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
                         "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl"
+                    ]
+                },
+                {
+                    "name": "上虞新商都",
+                    "tvg_name": "上虞新商都",
+                    "urls": [
+                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed"
                     ]
                 },
                 {
@@ -1919,8 +1897,7 @@
                     "name": "黑龙江文体",
                     "tvg_name": "黑龙江文体",
                     "urls": [
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8",
-                        "http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225965/main.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8"
                     ]
                 },
                 {
@@ -1950,6 +1927,13 @@
                     "tvg_name": "黑龙江少儿",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "鹤岗新闻综合",
+                    "tvg_name": "鹤岗新闻综合",
+                    "urls": [
+                        "http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8"
                     ]
                 },
                 {
@@ -2327,13 +2311,6 @@
                     ]
                 },
                 {
-                    "name": "睛彩篮球",
-                    "tvg_name": "睛彩篮球",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8"
-                    ]
-                },
-                {
                     "name": "动漫秀场",
                     "tvg_name": "动漫秀场",
                     "urls": [
@@ -2392,13 +2369,6 @@
                         "http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8",
                         "http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8",
                         "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8"
-                    ]
-                },
-                {
-                    "name": "浙江少儿",
-                    "tvg_name": "浙江少儿",
-                    "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244"
                     ]
                 },
                 {
