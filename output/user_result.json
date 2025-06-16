@@ -700,8 +700,7 @@
                     "tvg_name": "陕西卫视",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226926/1.m3u8"
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND"
                     ]
                 },
                 {
@@ -1218,8 +1217,7 @@
                     "tvg_name": "陕西卫视",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226926/1.m3u8"
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND"
                     ]
                 },
                 {
@@ -1391,6 +1389,13 @@
                     ]
                 },
                 {
+                    "name": "诸暨新闻综合",
+                    "tvg_name": "诸暨新闻综合",
+                    "urls": [
+                        "http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4"
+                    ]
+                },
+                {
                     "name": "龙泉新闻综合",
                     "tvg_name": "龙泉新闻综合",
                     "urls": [
@@ -1472,7 +1477,7 @@
                     "name": "上虞新商都",
                     "tvg_name": "上虞新商都",
                     "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed"
+                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?"
                     ]
                 },
                 {
@@ -1608,6 +1613,13 @@
                     "tvg_name": "无锡娱乐",
                     "urls": [
                         "http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708"
+                    ]
+                },
+                {
+                    "name": "无锡生活",
+                    "tvg_name": "无锡生活",
+                    "urls": [
+                        "http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708"
                     ]
                 },
                 {
@@ -2302,6 +2314,13 @@
                     "tvg_name": "精品体育",
                     "urls": [
                         "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "睛彩篮球",
+                    "tvg_name": "睛彩篮球",
+                    "urls": [
+                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8"
                     ]
                 },
                 {
