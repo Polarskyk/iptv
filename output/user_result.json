@@ -1391,13 +1391,6 @@
                     ]
                 },
                 {
-                    "name": "诸暨新闻综合",
-                    "tvg_name": "诸暨新闻综合",
-                    "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4"
-                    ]
-                },
-                {
                     "name": "龙泉新闻综合",
                     "tvg_name": "龙泉新闻综合",
                     "urls": [
@@ -1473,6 +1466,13 @@
                     "urls": [
                         "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
                         "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl"
+                    ]
+                },
+                {
+                    "name": "上虞新商都",
+                    "tvg_name": "上虞新商都",
+                    "urls": [
+                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed"
                     ]
                 },
                 {
@@ -1928,13 +1928,6 @@
                     "tvg_name": "黑龙江少儿",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "鹤岗新闻综合",
-                    "tvg_name": "鹤岗新闻综合",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8"
                     ]
                 },
                 {
