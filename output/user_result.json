@@ -296,6 +296,13 @@
                     ]
                 },
                 {
+                    "name": "CETV1",
+                    "tvg_name": "CETV1",
+                    "urls": [
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8"
+                    ]
+                },
+                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -315,7 +322,6 @@
                     "name": "浙江卫视",
                     "tvg_name": "浙江卫视",
                     "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
                         "http://[2409:8087:74f0:22::5]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000531",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
@@ -324,7 +330,8 @@
                         "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000385",
                         "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000307",
                         "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000370",
-                        "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000368"
+                        "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000368",
+                        "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000289"
                     ]
                 },
                 {
@@ -833,7 +840,6 @@
                     "name": "浙江卫视",
                     "tvg_name": "浙江卫视",
                     "urls": [
-                        "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
                         "http://[2409:8087:74f0:22::5]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000531",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
@@ -842,7 +848,8 @@
                         "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000385",
                         "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000307",
                         "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000370",
-                        "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000368"
+                        "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000368",
+                        "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000289"
                     ]
                 },
                 {
@@ -1384,13 +1391,6 @@
                     ]
                 },
                 {
-                    "name": "诸暨新闻综合",
-                    "tvg_name": "诸暨新闻综合",
-                    "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4"
-                    ]
-                },
-                {
                     "name": "龙泉新闻综合",
                     "tvg_name": "龙泉新闻综合",
                     "urls": [
@@ -1472,7 +1472,7 @@
                     "name": "上虞新商都",
                     "tvg_name": "上虞新商都",
                     "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?"
+                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed"
                     ]
                 },
                 {
@@ -1604,10 +1604,10 @@
                     ]
                 },
                 {
-                    "name": "无锡娱乐",
-                    "tvg_name": "无锡娱乐",
+                    "name": "无锡生活",
+                    "tvg_name": "无锡生活",
                     "urls": [
-                        "http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708"
+                        "http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708"
                     ]
                 },
                 {
