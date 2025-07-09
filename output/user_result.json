@@ -1479,13 +1479,6 @@
                     ]
                 },
                 {
-                    "name": "无锡娱乐",
-                    "tvg_name": "无锡娱乐",
-                    "urls": [
-                        "http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708"
-                    ]
-                },
-                {
                     "name": "无锡生活",
                     "tvg_name": "无锡生活",
                     "urls": [
@@ -1710,6 +1703,13 @@
         {
             "group": "安徽频道",
             "channels": [
+                {
+                    "name": "黄山新闻综合",
+                    "tvg_name": "黄山新闻综合",
+                    "urls": [
+                        "http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8"
+                    ]
+                },
                 {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
