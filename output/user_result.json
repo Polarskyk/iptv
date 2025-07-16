@@ -296,6 +296,13 @@
                     ]
                 },
                 {
+                    "name": "CETV1",
+                    "tvg_name": "CETV1",
+                    "urls": [
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8"
+                    ]
+                },
+                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -1761,8 +1768,7 @@
                     "name": "黑龙江文体",
                     "tvg_name": "黑龙江文体",
                     "urls": [
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8",
-                        "http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225965/main.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8"
                     ]
                 },
                 {
@@ -1792,13 +1798,6 @@
                     "tvg_name": "黑龙江少儿",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "鹤岗新闻综合",
-                    "tvg_name": "鹤岗新闻综合",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8"
                     ]
                 },
                 {
