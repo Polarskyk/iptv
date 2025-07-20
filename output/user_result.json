@@ -1479,6 +1479,20 @@
                     ]
                 },
                 {
+                    "name": "无锡娱乐",
+                    "tvg_name": "无锡娱乐",
+                    "urls": [
+                        "http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708"
+                    ]
+                },
+                {
+                    "name": "无锡生活",
+                    "tvg_name": "无锡生活",
+                    "urls": [
+                        "http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708"
+                    ]
+                },
+                {
                     "name": "淮安影院娱乐",
                     "tvg_name": "淮安影院娱乐",
                     "urls": [
@@ -1785,13 +1799,6 @@
                     "tvg_name": "黑龙江少儿",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "鹤岗新闻综合",
-                    "tvg_name": "鹤岗新闻综合",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8"
                     ]
                 },
                 {
