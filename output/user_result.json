@@ -296,6 +296,13 @@
                     ]
                 },
                 {
+                    "name": "CETV1",
+                    "tvg_name": "CETV1",
+                    "urls": [
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8"
+                    ]
+                },
+                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -1469,6 +1476,20 @@
                         "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8",
                         "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8"
+                    ]
+                },
+                {
+                    "name": "无锡娱乐",
+                    "tvg_name": "无锡娱乐",
+                    "urls": [
+                        "http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708"
+                    ]
+                },
+                {
+                    "name": "无锡生活",
+                    "tvg_name": "无锡生活",
+                    "urls": [
+                        "http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708"
                     ]
                 },
                 {
