@@ -296,13 +296,6 @@
                     ]
                 },
                 {
-                    "name": "CETV1",
-                    "tvg_name": "CETV1",
-                    "urls": [
-                        "https://cc06.tv12.xyz/23.m3u8"
-                    ]
-                },
-                {
                     "name": "CETV2",
                     "tvg_name": "CETV2",
                     "urls": [
@@ -2175,9 +2168,9 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
