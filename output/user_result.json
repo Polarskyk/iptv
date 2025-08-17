@@ -296,13 +296,6 @@
                     ]
                 },
                 {
-                    "name": "CETV2",
-                    "tvg_name": "CETV2",
-                    "urls": [
-                        "https://cc06.tv12.xyz/24.m3u8"
-                    ]
-                },
-                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -1446,6 +1439,13 @@
                     ]
                 },
                 {
+                    "name": "法治天地",
+                    "tvg_name": "法治天地",
+                    "urls": [
+                        "https://cc06.tv12.xyz/42.m3u8"
+                    ]
+                },
+                {
                     "name": "第一财经",
                     "tvg_name": "第一财经",
                     "urls": [
@@ -2158,19 +2158,12 @@
                     ]
                 },
                 {
-                    "name": "睛彩篮球",
-                    "tvg_name": "睛彩篮球",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8"
-                    ]
-                },
-                {
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
