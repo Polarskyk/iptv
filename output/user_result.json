@@ -335,13 +335,6 @@
                     ]
                 },
                 {
-                    "name": "香港卫视",
-                    "tvg_name": "香港卫视",
-                    "urls": [
-                        "https://yvxymm.tv12.xyz/175.m3u8"
-                    ]
-                },
-                {
                     "name": "浙江卫视",
                     "tvg_name": "浙江卫视",
                     "urls": [
@@ -722,7 +715,7 @@
                     "tvg_name": "陕西卫视",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND"
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8"
                     ]
                 },
                 {
@@ -857,13 +850,6 @@
                     ]
                 },
                 {
-                    "name": "香港卫视",
-                    "tvg_name": "香港卫视",
-                    "urls": [
-                        "https://yvxymm.tv12.xyz/175.m3u8"
-                    ]
-                },
-                {
                     "name": "浙江卫视",
                     "tvg_name": "浙江卫视",
                     "urls": [
@@ -1244,7 +1230,7 @@
                     "tvg_name": "陕西卫视",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND"
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8"
                     ]
                 },
                 {
@@ -1661,6 +1647,13 @@
             "group": "河南频道",
             "channels": [
                 {
+                    "name": "巩义新闻综合",
+                    "tvg_name": "巩义新闻综合",
+                    "urls": [
+                        "http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend"
+                    ]
+                },
+                {
                     "name": "温县综合",
                     "tvg_name": "温县综合",
                     "urls": [
@@ -1731,10 +1724,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "group": "云南频道",
-            "channels": []
         },
         {
             "group": "青海频道",
@@ -1814,13 +1803,6 @@
                     "tvg_name": "凤凰香港",
                     "urls": [
                         "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "香港卫视",
-                    "tvg_name": "香港卫视",
-                    "urls": [
-                        "https://yvxymm.tv12.xyz/175.m3u8"
                     ]
                 },
                 {
@@ -2202,9 +2184,7 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
-                        "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
