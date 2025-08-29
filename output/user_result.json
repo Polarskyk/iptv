@@ -311,6 +311,13 @@
                     ]
                 },
                 {
+                    "name": "CETV4",
+                    "tvg_name": "CETV4",
+                    "urls": [
+                        "https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b"
+                    ]
+                },
+                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -825,6 +832,18 @@
                         "http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8",
                         "http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8",
                         "http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178"
+                    ]
+                }
+            ]
+        },
+        {
+            "group": "视付费频道",
+            "channels": [
+                {
+                    "name": "电视指南",
+                    "tvg_name": "电视指南",
+                    "urls": [
+                        "https://cc06.tv12.xyz/39.m3u8"
                     ]
                 }
             ]
@@ -1653,20 +1672,6 @@
             "group": "河南频道",
             "channels": [
                 {
-                    "name": "巩义新闻综合",
-                    "tvg_name": "巩义新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "温县综合",
-                    "tvg_name": "温县综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend"
-                    ]
-                },
-                {
                     "name": "新野综合",
                     "tvg_name": "新野综合",
                     "urls": [
@@ -1786,7 +1791,8 @@
                     "name": "黑龙江都市",
                     "tvg_name": "黑龙江都市",
                     "urls": [
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8",
+                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8"
                     ]
                 },
                 {
@@ -2196,9 +2202,9 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
