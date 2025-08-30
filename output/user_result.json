@@ -1795,7 +1795,8 @@
                     "name": "黑龙江都市",
                     "tvg_name": "黑龙江都市",
                     "urls": [
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8",
+                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8"
                     ]
                 },
                 {
@@ -1803,6 +1804,13 @@
                     "tvg_name": "黑龙江少儿",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "鹤岗新闻综合",
+                    "tvg_name": "鹤岗新闻综合",
+                    "urls": [
+                        "http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8"
                     ]
                 },
                 {
@@ -2188,6 +2196,7 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
+                        "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
