@@ -326,6 +326,13 @@
                     ]
                 },
                 {
+                    "name": "香港卫视",
+                    "tvg_name": "香港卫视",
+                    "urls": [
+                        "https://yvxymm.tv12.xyz/175.m3u8"
+                    ]
+                },
+                {
                     "name": "浙江卫视",
                     "tvg_name": "浙江卫视",
                     "urls": [
@@ -849,6 +856,13 @@
                         "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225597/2/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226248/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "香港卫视",
+                    "tvg_name": "香港卫视",
+                    "urls": [
+                        "https://yvxymm.tv12.xyz/175.m3u8"
                     ]
                 },
                 {
@@ -1766,8 +1780,7 @@
                     "name": "黑龙江都市",
                     "tvg_name": "黑龙江都市",
                     "urls": [
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8",
-                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8"
                     ]
                 },
                 {
@@ -1789,6 +1802,13 @@
                     "tvg_name": "凤凰香港",
                     "urls": [
                         "http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "香港卫视",
+                    "tvg_name": "香港卫视",
+                    "urls": [
+                        "https://yvxymm.tv12.xyz/175.m3u8"
                     ]
                 },
                 {
