@@ -1780,8 +1780,7 @@
                     "name": "黑龙江都市",
                     "tvg_name": "黑龙江都市",
                     "urls": [
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8",
-                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8"
                     ]
                 },
                 {
@@ -2168,13 +2167,6 @@
                     "tvg_name": "超级体育",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "睛彩篮球",
-                    "tvg_name": "睛彩篮球",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8"
                     ]
                 },
                 {
