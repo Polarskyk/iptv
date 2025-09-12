@@ -307,6 +307,7 @@
                     "tvg_name": "CETV2",
                     "urls": [
                         "https://cc06.tv12.xyz/24.m3u8",
+                        "https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=58dbb8ad5ad539c0da365c819615222219346bbe2fa8d6e4231da9ad89c4faf34adbae451bebfa99d9b8c9eda32e04a0066231dfd40496610efa4bee9ad5f110baee36b6f4098850d6b507505f",
                         "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android"
                     ]
                 },
@@ -832,13 +833,6 @@
         {
             "group": "视付费频道",
             "channels": [
-                {
-                    "name": "风云剧场",
-                    "tvg_name": "风云剧场",
-                    "urls": [
-                        "https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222"
-                    ]
-                },
                 {
                     "name": "电视指南",
                     "tvg_name": "电视指南",
@@ -1551,7 +1545,6 @@
                     "name": "江苏城市",
                     "tvg_name": "江苏城市",
                     "urls": [
-                        "https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=b92ada516923349cef01531d5bff5992a22ba9122a3e7c2696e7edd09a971fa6e2a2e1a2209c9ab3c9a404643dce743a2de2a97c7793ae60e3b2614d285ec1c42bcb6619c30a8bb2923adbbb68",
                         "http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202509030900312c5ad926e30449e5b9405f27a3fde9a6&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3712225a575d903704881b6443f50a06&ddCalcu=6307va1a02x52af2354a4567b51d89804307&sv=10004&ct=android"
                     ]
                 },
@@ -1589,6 +1582,7 @@
                     "name": "连云港新闻综合",
                     "tvg_name": "连云港新闻综合",
                     "urls": [
+                        "https://mursor.ottiptv.cc/migu/639731715.m3u8?migutoken=95ec9e5e08128c5eb4439c9ed02c10824b83bcbcbd598d08b91a44abc0c7b912b5aeb8415f2bf9d9e8c0007dcf164a961107d2f9af40c6d42bb5218c84a9428e5b7b66a00e5cdde5c1d164bf09",
                         "http://gslbmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=20250903090032646047095bc64a1c968e703401c7fec1&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20250903090032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=106.13.250.83&SecurityKey=20250903090032&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c19beb3ac61dd99e40036c371af55211&ddCalcu=1c11v29a5bx5eafba31a7c36c16d3d09094e&sv=10004&ct=android"
                     ]
                 }
@@ -1817,6 +1811,13 @@
             "group": "安徽频道",
             "channels": [
                 {
+                    "name": "宿松新闻综合",
+                    "tvg_name": "宿松新闻综合",
+                    "urls": [
+                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
+                    ]
+                },
+                {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
                     "urls": [
@@ -1899,8 +1900,7 @@
                     "name": "黑龙江都市",
                     "tvg_name": "黑龙江都市",
                     "urls": [
-                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8",
-                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8"
+                        "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8"
                     ]
                 },
                 {
@@ -1908,13 +1908,6 @@
                     "tvg_name": "黑龙江少儿",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "鹤岗新闻综合",
-                    "tvg_name": "鹤岗新闻综合",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8"
                     ]
                 },
                 {
@@ -2284,19 +2277,12 @@
                     ]
                 },
                 {
-                    "name": "睛彩篮球",
-                    "tvg_name": "睛彩篮球",
-                    "urls": [
-                        "http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8"
-                    ]
-                },
-                {
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
