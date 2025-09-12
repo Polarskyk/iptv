@@ -834,6 +834,13 @@
             "group": "视付费频道",
             "channels": [
                 {
+                    "name": "风云剧场",
+                    "tvg_name": "风云剧场",
+                    "urls": [
+                        "https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222"
+                    ]
+                },
+                {
                     "name": "电视指南",
                     "tvg_name": "电视指南",
                     "urls": [
@@ -1545,6 +1552,7 @@
                     "name": "江苏城市",
                     "tvg_name": "江苏城市",
                     "urls": [
+                        "https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=b92ada516923349cef01531d5bff5992a22ba9122a3e7c2696e7edd09a971fa6e2a2e1a2209c9ab3c9a404643dce743a2de2a97c7793ae60e3b2614d285ec1c42bcb6619c30a8bb2923adbbb68",
                         "http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202509030900312c5ad926e30449e5b9405f27a3fde9a6&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3712225a575d903704881b6443f50a06&ddCalcu=6307va1a02x52af2354a4567b51d89804307&sv=10004&ct=android"
                     ]
                 },
@@ -1560,7 +1568,6 @@
                     "name": "江苏教育",
                     "tvg_name": "江苏教育",
                     "urls": [
-                        "https://mursor.ottiptv.cc/migu/628008321.m3u8?migutoken=f23d4bcff80819f435db9a666e24d1bb6cb7daed4d5f480936906885f3d62861b56b769a71332c450d31bc8d287919f595d3e6345a45469a801811eaae8da0bc75fecc6ad6284507ffd4495d3d",
                         "http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=20250903090031d7e536b9e78c4a42b0841922e44a4a36&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d3e3bd992ebf554d360ba9b83b9b179d&ddCalcu=dd93v7ea13bbba9db93982be9bafb505643d&sv=10004&ct=android"
                     ]
                 },
@@ -1569,13 +1576,6 @@
                     "tvg_name": "淮安新闻综合",
                     "urls": [
                         "https://mursor.ottiptv.cc/migu/639731826.m3u8?migutoken=d72922ed14054c4c03ebda8a2d636518ee54cc6e0dda4714c6fbe68badcf28869a5d5e29c07901926d6a0923a7fab32112868b1e1ce7042073c1715e1e6e0c4af6ae0af39485d249f73b9d8f11"
-                    ]
-                },
-                {
-                    "name": "溧水新闻综合",
-                    "tvg_name": "溧水新闻综合",
-                    "urls": [
-                        "https://mursor.ottiptv.cc/migu/639737327.m3u8?migutoken=ea943b4d731fe15865f6caaeaab663978aa95498ba7c40d1eef40639bcc5902335d53c5bd66345a202cd20a08b41999c4c1378c4bcc42b553b4f16ab32e95dcaaa5371e80e545ce50fe49ca87e"
                     ]
                 },
                 {
@@ -1811,13 +1811,6 @@
             "group": "安徽频道",
             "channels": [
                 {
-                    "name": "宿松新闻综合",
-                    "tvg_name": "宿松新闻综合",
-                    "urls": [
-                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
-                    ]
-                },
-                {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
                     "urls": [
@@ -1840,10 +1833,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "group": "内蒙古频道",
-            "channels": []
         },
         {
             "group": "青海频道",
