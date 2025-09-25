@@ -296,21 +296,6 @@
                     ]
                 },
                 {
-                    "name": "CETV1",
-                    "tvg_name": "CETV1",
-                    "urls": [
-                        "https://cc06.tv12.xyz/23.m3u8"
-                    ]
-                },
-                {
-                    "name": "CETV2",
-                    "tvg_name": "CETV2",
-                    "urls": [
-                        "https://cc06.tv12.xyz/24.m3u8",
-                        "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android"
-                    ]
-                },
-                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -1478,6 +1463,7 @@
                     "name": "法治天地",
                     "tvg_name": "法治天地",
                     "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8",
                         "https://cc06.tv12.xyz/42.m3u8"
                     ]
                 },
@@ -2249,6 +2235,13 @@
                     ]
                 },
                 {
+                    "name": "五星体育",
+                    "tvg_name": "五星体育",
+                    "urls": [
+                        "https://other.ottiptv.cc/wxty.m3u8"
+                    ]
+                },
+                {
                     "name": "爱体育",
                     "tvg_name": "爱体育",
                     "urls": [
@@ -2268,6 +2261,7 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8",
                         "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
