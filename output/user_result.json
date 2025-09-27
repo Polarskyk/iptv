@@ -1436,6 +1436,7 @@
                     "name": "上海第一财经",
                     "tvg_name": "上海第一财经",
                     "urls": [
+                        "https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84",
                         "http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834"
                     ]
                 },
@@ -1814,6 +1815,18 @@
             ]
         },
         {
+            "group": "山东频道",
+            "channels": [
+                {
+                    "name": "山东教育",
+                    "tvg_name": "山东教育",
+                    "urls": [
+                        "http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19"
+                    ]
+                }
+            ]
+        },
+        {
             "group": "安徽频道",
             "channels": [
                 {
@@ -1863,6 +1876,13 @@
                     "tvg_name": "西宁生活服务",
                     "urls": [
                         "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8"
+                    ]
+                },
+                {
+                    "name": "青海都市",
+                    "tvg_name": "青海都市",
+                    "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8"
                     ]
                 }
             ]
@@ -2256,6 +2276,13 @@
                     ]
                 },
                 {
+                    "name": "五星体育",
+                    "tvg_name": "五星体育",
+                    "urls": [
+                        "https://other.ottiptv.cc/wxty.m3u8"
+                    ]
+                },
+                {
                     "name": "爱体育",
                     "tvg_name": "爱体育",
                     "urls": [
@@ -2275,8 +2302,10 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8",
+                        "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
