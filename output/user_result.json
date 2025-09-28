@@ -296,6 +296,13 @@
                     ]
                 },
                 {
+                    "name": "CETV1",
+                    "tvg_name": "CETV1",
+                    "urls": [
+                        "https://cc06.tv12.xyz/23.m3u8"
+                    ]
+                },
+                {
                     "name": "CETV2",
                     "tvg_name": "CETV2",
                     "urls": [
@@ -1468,13 +1475,6 @@
                     ]
                 },
                 {
-                    "name": "欢笑剧场",
-                    "tvg_name": "欢笑剧场",
-                    "urls": [
-                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8"
-                    ]
-                },
-                {
                     "name": "法治天地",
                     "tvg_name": "法治天地",
                     "urls": [
@@ -1487,13 +1487,6 @@
                     "tvg_name": "第一财经",
                     "urls": [
                         "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3"
-                    ]
-                },
-                {
-                    "name": "都市剧场",
-                    "tvg_name": "都市剧场",
-                    "urls": [
-                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8"
                     ]
                 }
             ]
@@ -2302,10 +2295,9 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
-                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8",
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
