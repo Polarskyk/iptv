@@ -2317,9 +2317,9 @@
                     "tvg_name": "睛彩广场舞",
                     "urls": [
                         "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8",
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
