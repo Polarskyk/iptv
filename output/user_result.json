@@ -1481,6 +1481,13 @@
                     ]
                 },
                 {
+                    "name": "欢笑剧场",
+                    "tvg_name": "欢笑剧场",
+                    "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8"
+                    ]
+                },
+                {
                     "name": "法治天地",
                     "tvg_name": "法治天地",
                     "urls": [
@@ -1493,6 +1500,13 @@
                     "tvg_name": "第一财经",
                     "urls": [
                         "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "都市剧场",
+                    "tvg_name": "都市剧场",
+                    "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8"
                     ]
                 }
             ]
@@ -1877,6 +1891,13 @@
                     "urls": [
                         "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8"
                     ]
+                },
+                {
+                    "name": "青海都市",
+                    "tvg_name": "青海都市",
+                    "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8"
+                    ]
                 }
             ]
         },
@@ -1975,6 +1996,13 @@
                         "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
                         "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8",
                         "http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "天映经典",
+                    "tvg_name": "天映经典",
+                    "urls": [
+                        "https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc"
                     ]
                 },
                 {
@@ -2295,6 +2323,7 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8",
                         "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
