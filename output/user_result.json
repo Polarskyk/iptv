@@ -1481,13 +1481,6 @@
                     ]
                 },
                 {
-                    "name": "欢笑剧场",
-                    "tvg_name": "欢笑剧场",
-                    "urls": [
-                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8"
-                    ]
-                },
-                {
                     "name": "法治天地",
                     "tvg_name": "法治天地",
                     "urls": [
@@ -1500,13 +1493,6 @@
                     "tvg_name": "第一财经",
                     "urls": [
                         "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3"
-                    ]
-                },
-                {
-                    "name": "都市剧场",
-                    "tvg_name": "都市剧场",
-                    "urls": [
-                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8"
                     ]
                 }
             ]
@@ -1843,6 +1829,13 @@
             "group": "安徽频道",
             "channels": [
                 {
+                    "name": "宿松新闻综合",
+                    "tvg_name": "宿松新闻综合",
+                    "urls": [
+                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
+                    ]
+                },
+                {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
                     "urls": [
@@ -1890,13 +1883,6 @@
                     "tvg_name": "西宁生活服务",
                     "urls": [
                         "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8"
-                    ]
-                },
-                {
-                    "name": "青海都市",
-                    "tvg_name": "青海都市",
-                    "urls": [
-                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8"
                     ]
                 }
             ]
@@ -1967,6 +1953,7 @@
                     "tvg_name": "淘剧场",
                     "urls": [
                         "http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND",
+                        "http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8",
                         "http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8"
                     ]
                 },
@@ -1975,6 +1962,7 @@
                     "tvg_name": "淘娱乐",
                     "urls": [
                         "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND",
+                        "http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8",
                         "http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8"
                     ]
                 },
@@ -2316,10 +2304,10 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
-                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8",
+                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
-                        "http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive"
+                        "http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
