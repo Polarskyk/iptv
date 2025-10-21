@@ -1455,6 +1455,13 @@
                     ]
                 },
                 {
+                    "name": "欢笑剧场",
+                    "tvg_name": "欢笑剧场",
+                    "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8"
+                    ]
+                },
+                {
                     "name": "法治天地",
                     "tvg_name": "法治天地",
                     "urls": [
@@ -1466,6 +1473,13 @@
                     "tvg_name": "第一财经",
                     "urls": [
                         "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3"
+                    ]
+                },
+                {
+                    "name": "都市剧场",
+                    "tvg_name": "都市剧场",
+                    "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8"
                     ]
                 }
             ]
@@ -1855,6 +1869,13 @@
                     "tvg_name": "西宁生活服务",
                     "urls": [
                         "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8"
+                    ]
+                },
+                {
+                    "name": "青海都市",
+                    "tvg_name": "青海都市",
+                    "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8"
                     ]
                 }
             ]
@@ -2250,13 +2271,6 @@
                     ]
                 },
                 {
-                    "name": "五星体育",
-                    "tvg_name": "五星体育",
-                    "urls": [
-                        "https://other.ottiptv.cc/wxty.m3u8"
-                    ]
-                },
-                {
                     "name": "爱体育",
                     "tvg_name": "爱体育",
                     "urls": [
@@ -2276,6 +2290,7 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
+                        "http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8",
                         "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
