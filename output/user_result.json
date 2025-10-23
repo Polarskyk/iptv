@@ -2005,19 +2005,8 @@
             ]
         },
         {
-            "group": "山西频道",
-            "channels": []
-        },
-        {
             "group": "安徽频道",
             "channels": [
-                {
-                    "name": "宿松新闻综合",
-                    "tvg_name": "宿松新闻综合",
-                    "urls": [
-                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
-                    ]
-                },
                 {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
@@ -2125,8 +2114,7 @@
                     "name": "CHC家庭影院",
                     "tvg_name": "CHC家庭影院",
                     "urls": [
-                        "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2",
-                        "https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5"
+                        "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2"
                     ]
                 },
                 {
