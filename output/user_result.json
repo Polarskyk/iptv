@@ -2032,13 +2032,6 @@
             "group": "安徽频道",
             "channels": [
                 {
-                    "name": "宿松新闻综合",
-                    "tvg_name": "宿松新闻综合",
-                    "urls": [
-                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
-                    ]
-                },
-                {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
                     "urls": [
@@ -2189,7 +2182,8 @@
                     "name": "靖天映画",
                     "tvg_name": "靖天映画",
                     "urls": [
-                        "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8"
+                        "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8",
+                        "https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8"
                     ]
                 },
                 {
