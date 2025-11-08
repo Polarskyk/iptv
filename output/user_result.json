@@ -1465,24 +1465,10 @@
                     ]
                 },
                 {
-                    "name": "欢笑剧场",
-                    "tvg_name": "欢笑剧场",
-                    "urls": [
-                        "https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12"
-                    ]
-                },
-                {
                     "name": "第一财经",
                     "tvg_name": "第一财经",
                     "urls": [
                         "http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3"
-                    ]
-                },
-                {
-                    "name": "都市剧场",
-                    "tvg_name": "都市剧场",
-                    "urls": [
-                        "https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12"
                     ]
                 }
             ]
@@ -2196,7 +2182,8 @@
                     "name": "靖天映画",
                     "tvg_name": "靖天映画",
                     "urls": [
-                        "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8"
+                        "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8",
+                        "https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8"
                     ]
                 },
                 {
@@ -2510,6 +2497,7 @@
                     "name": "睛彩广场舞",
                     "tvg_name": "睛彩广场舞",
                     "urls": [
+                        "http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive",
                         "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
