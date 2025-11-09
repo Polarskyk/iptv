@@ -1581,8 +1581,7 @@
                     "name": "涟水电视台综合",
                     "tvg_name": "涟水电视台综合",
                     "urls": [
-                        "http://live1.habctv.com/ggpdsl/sd/live.m3u8",
-                        "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd"
+                        "http://live1.habctv.com/ggpdsl/sd/live.m3u8"
                     ]
                 },
                 {
@@ -2182,8 +2181,7 @@
                     "name": "靖天映画",
                     "tvg_name": "靖天映画",
                     "urls": [
-                        "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8",
-                        "https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8"
+                        "https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8"
                     ]
                 },
                 {
