@@ -1898,13 +1898,6 @@
                     ]
                 },
                 {
-                    "name": "泌阳新闻综合",
-                    "tvg_name": "泌阳新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8"
-                    ]
-                },
-                {
                     "name": "渑池新闻综合",
                     "tvg_name": "渑池新闻综合",
                     "urls": [
@@ -2039,6 +2032,13 @@
         {
             "group": "安徽频道",
             "channels": [
+                {
+                    "name": "宿松新闻综合",
+                    "tvg_name": "宿松新闻综合",
+                    "urls": [
+                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
+                    ]
+                },
                 {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
