@@ -303,13 +303,6 @@
                     ]
                 },
                 {
-                    "name": "CETV4",
-                    "tvg_name": "CETV4",
-                    "urls": [
-                        "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=2025090309003329cd481a5313461999ea66e0b5c14a1b&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a0dd23e241f091b5c99903fbe22f27e3&ddCalcu=3ae0v7da2dbf2a232ee2b4f13f0099919bc5&sv=10004&ct=android"
-                    ]
-                },
-                {
                     "name": "广东卫视",
                     "tvg_name": "广东卫视",
                     "urls": [
@@ -2043,13 +2036,6 @@
             "group": "安徽频道",
             "channels": [
                 {
-                    "name": "宿松新闻综合",
-                    "tvg_name": "宿松新闻综合",
-                    "urls": [
-                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
-                    ]
-                },
-                {
                     "name": "亳州农村",
                     "tvg_name": "亳州农村",
                     "urls": [
@@ -2575,6 +2561,14 @@
                         "http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8",
                         "http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8",
                         "http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8"
+                    ]
+                },
+                {
+                    "name": "游戏风云",
+                    "tvg_name": "游戏风云",
+                    "urls": [
+                        "http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=m",
+                        "http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=m"
                     ]
                 },
                 {
