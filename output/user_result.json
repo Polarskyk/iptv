@@ -1974,6 +1974,14 @@
                     ]
                 },
                 {
+                    "name": "新野综合",
+                    "tvg_name": "新野综合",
+                    "urls": [
+                        "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8",
+                        "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend"
+                    ]
+                },
+                {
                     "name": "宜阳综合",
                     "tvg_name": "宜阳综合",
                     "urls": [
@@ -2179,6 +2187,13 @@
                         "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
                         "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8",
                         "http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "天映经典",
+                    "tvg_name": "天映经典",
+                    "urls": [
+                        "https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc"
                     ]
                 },
                 {
