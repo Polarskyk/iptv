@@ -1995,6 +1995,13 @@
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8",
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend"
                     ]
+                },
+                {
+                    "name": "偃师新闻",
+                    "tvg_name": "偃师新闻",
+                    "urls": [
+                        "http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8"
+                    ]
                 }
             ]
         },
