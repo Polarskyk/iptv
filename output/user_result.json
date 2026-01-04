@@ -1889,13 +1889,6 @@
                     ]
                 },
                 {
-                    "name": "泌阳新闻综合",
-                    "tvg_name": "泌阳新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8"
-                    ]
-                },
-                {
                     "name": "渑池新闻综合",
                     "tvg_name": "渑池新闻综合",
                     "urls": [
@@ -1943,15 +1936,7 @@
                     "name": "郸城新闻综合",
                     "tvg_name": "郸城新闻综合",
                     "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569"
-                    ]
-                },
-                {
-                    "name": "鄢陵综合",
-                    "tvg_name": "鄢陵综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8"
+                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8"
                     ]
                 },
                 {
@@ -1982,13 +1967,6 @@
                     "urls": [
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8",
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "偃师新闻",
-                    "tvg_name": "偃师新闻",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8"
                     ]
                 }
             ]
