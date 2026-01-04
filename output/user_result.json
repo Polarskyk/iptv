@@ -1627,10 +1627,6 @@
             ]
         },
         {
-            "group": "湖南频道",
-            "channels": []
-        },
-        {
             "group": "湖北频道",
             "channels": [
                 {
@@ -1959,6 +1955,13 @@
                     ]
                 },
                 {
+                    "name": "项城新闻",
+                    "tvg_name": "项城新闻",
+                    "urls": [
+                        "http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8"
+                    ]
+                },
+                {
                     "name": "新野综合",
                     "tvg_name": "新野综合",
                     "urls": [
@@ -2072,13 +2075,6 @@
                 {
                     "name": "西宁新闻综合",
                     "tvg_name": "西宁新闻综合",
-                    "urls": [
-                        "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8"
-                    ]
-                },
-                {
-                    "name": "西宁生活服务",
-                    "tvg_name": "西宁生活服务",
                     "urls": [
                         "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8"
                     ]
