@@ -1800,20 +1800,6 @@
             "group": "河南频道",
             "channels": [
                 {
-                    "name": "义马新闻综合",
-                    "tvg_name": "义马新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "光山综合",
-                    "tvg_name": "光山综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8"
-                    ]
-                },
-                {
                     "name": "兰考新闻",
                     "tvg_name": "兰考新闻",
                     "urls": [
@@ -1824,15 +1810,7 @@
                     "name": "卫辉综合",
                     "tvg_name": "卫辉综合",
                     "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "叶县",
-                    "tvg_name": "叶县",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8"
+                        "http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8"
                     ]
                 },
                 {
@@ -1840,6 +1818,13 @@
                     "tvg_name": "唐河一套",
                     "urls": [
                         "http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend"
+                    ]
+                },
+                {
+                    "name": "固始综合",
+                    "tvg_name": "固始综合",
+                    "urls": [
+                        "http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8"
                     ]
                 },
                 {
@@ -1877,8 +1862,7 @@
                     "name": "新蔡综合",
                     "tvg_name": "新蔡综合",
                     "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend"
+                        "http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8"
                     ]
                 },
                 {
@@ -1889,17 +1873,24 @@
                     ]
                 },
                 {
-                    "name": "渑池新闻综合",
-                    "tvg_name": "渑池新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8"
-                    ]
-                },
-                {
                     "name": "潢川综合",
                     "tvg_name": "潢川综合",
                     "urls": [
                         "http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8"
+                    ]
+                },
+                {
+                    "name": "登封综合",
+                    "tvg_name": "登封综合",
+                    "urls": [
+                        "http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8"
+                    ]
+                },
+                {
+                    "name": "西华综合",
+                    "tvg_name": "西华综合",
+                    "urls": [
+                        "http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend"
                     ]
                 },
                 {
@@ -1913,8 +1904,7 @@
                     "name": "郸城新闻综合",
                     "tvg_name": "郸城新闻综合",
                     "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569"
+                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8"
                     ]
                 },
                 {
@@ -1952,13 +1942,6 @@
                     "urls": [
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8",
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "偃师新闻",
-                    "tvg_name": "偃师新闻",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8"
                     ]
                 }
             ]
