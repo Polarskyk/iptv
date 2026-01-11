@@ -2040,7 +2040,15 @@
         },
         {
             "group": "安徽频道",
-            "channels": []
+            "channels": [
+                {
+                    "name": "亳州农村",
+                    "tvg_name": "亳州农村",
+                    "urls": [
+                        "http://zbbf2.ahbztv.com/live/418.m3u8?zanhd"
+                    ]
+                }
+            ]
         },
         {
             "group": "吉林频道",
