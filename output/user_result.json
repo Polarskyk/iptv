@@ -2178,14 +2178,16 @@
                     "name": "淘剧场",
                     "tvg_name": "淘剧场",
                     "urls": [
-                        "http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND"
+                        "http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND",
+                        "http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8"
                     ]
                 },
                 {
                     "name": "淘娱乐",
                     "tvg_name": "淘娱乐",
                     "urls": [
-                        "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND"
+                        "http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND",
+                        "http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8"
                     ]
                 },
                 {
@@ -2206,6 +2208,13 @@
                         "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8",
                         "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8",
                         "http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "东森洋片",
+                    "tvg_name": "东森洋片",
+                    "urls": [
+                        "https://hls.iill.top/api/dsyp/index.m3u8"
                     ]
                 },
                 {
@@ -2520,6 +2529,13 @@
                     "tvg_name": "超级体育",
                     "urls": [
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "睛彩广场舞",
+                    "tvg_name": "睛彩广场舞",
+                    "urls": [
+                        "http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive"
                     ]
                 },
                 {
