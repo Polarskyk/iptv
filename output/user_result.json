@@ -1381,7 +1381,7 @@
                     "name": "上虞新商都",
                     "tvg_name": "上虞新商都",
                     "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed"
+                        "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?"
                     ]
                 }
             ]
@@ -1597,13 +1597,6 @@
                         "http://live1.habctv.com/ggpdsl/sd/live.m3u8",
                         "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd",
                         "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd"
-                    ]
-                },
-                {
-                    "name": "淮安影院娱乐",
-                    "tvg_name": "淮安影院娱乐",
-                    "urls": [
-                        "http://live1.habctv.com/ysylsl/sd/live.m3u8"
                     ]
                 },
                 {
