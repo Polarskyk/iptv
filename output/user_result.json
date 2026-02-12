@@ -2202,13 +2202,6 @@
                     ]
                 },
                 {
-                    "name": "东森洋片",
-                    "tvg_name": "东森洋片",
-                    "urls": [
-                        "https://hls.iill.top/api/dsyp/index.m3u8"
-                    ]
-                },
-                {
                     "name": "咪咕直播2",
                     "tvg_name": "咪咕直播2",
                     "urls": [
