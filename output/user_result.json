@@ -1530,20 +1530,6 @@
                     ]
                 },
                 {
-                    "name": "无锡娱乐",
-                    "tvg_name": "无锡娱乐",
-                    "urls": [
-                        "http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708"
-                    ]
-                },
-                {
-                    "name": "无锡生活",
-                    "tvg_name": "无锡生活",
-                    "urls": [
-                        "http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708"
-                    ]
-                },
-                {
                     "name": "无锡经济",
                     "tvg_name": "无锡经济",
                     "urls": [
@@ -2461,6 +2447,13 @@
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8",
                         "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "五星体育",
+                    "tvg_name": "五星体育",
+                    "urls": [
+                        "https://other.ottiptv.cc/wxty.m3u8"
                     ]
                 },
                 {
