@@ -1371,24 +1371,10 @@
             "group": "浙江频道",
             "channels": [
                 {
-                    "name": "余杭未来E",
-                    "tvg_name": "余杭未来E",
-                    "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed"
-                    ]
-                },
-                {
                     "name": "余姚综合",
                     "tvg_name": "余姚综合",
                     "urls": [
                         "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?"
-                    ]
-                },
-                {
-                    "name": "余姚新闻综合",
-                    "tvg_name": "余姚新闻综合",
-                    "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
                     ]
                 }
             ]
