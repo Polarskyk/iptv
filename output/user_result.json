@@ -1369,15 +1369,7 @@
         },
         {
             "group": "浙江频道",
-            "channels": [
-                {
-                    "name": "余姚综合",
-                    "tvg_name": "余姚综合",
-                    "urls": [
-                        "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?"
-                    ]
-                }
-            ]
+            "channels": []
         },
         {
             "group": "北京频道",
@@ -1549,8 +1541,8 @@
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
-                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772"
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
+                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
                     ]
                 },
                 {
