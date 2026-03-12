@@ -2052,13 +2052,6 @@
                         "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8",
                         "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing"
                     ]
-                },
-                {
-                    "name": "西宁新闻综合",
-                    "tvg_name": "西宁新闻综合",
-                    "urls": [
-                        "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8"
-                    ]
                 }
             ]
         },

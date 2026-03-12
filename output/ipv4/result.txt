@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-12 18:32:59,https://60.191.56.186:8888/hls/15/index.m3u8
+2026-03-13 06:19:21,https://60.191.56.186:8888/hls/15/index.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
@@ -65,8 +65,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️河北频道,#genre#
 
 ☘️甘肃频道,#genre#
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
