@@ -1931,6 +1931,18 @@
             ]
         },
         {
+            "group": "河北频道",
+            "channels": [
+                {
+                    "name": "邯郸新闻",
+                    "tvg_name": "邯郸新闻",
+                    "urls": [
+                        "https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8"
+                    ]
+                }
+            ]
+        },
+        {
             "group": "新疆频道",
             "channels": [
                 {
