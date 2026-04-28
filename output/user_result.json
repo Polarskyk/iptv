@@ -1495,9 +1495,9 @@
                     "tvg_name": "无锡经济",
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
-                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd"
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
+                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
                     ]
                 },
                 {
@@ -1505,8 +1505,8 @@
                     "tvg_name": "涟水电视台综合",
                     "urls": [
                         "http://live1.habctv.com/ggpdsl/sd/live.m3u8",
-                        "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd",
-                        "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd"
+                        "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd",
+                        "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd"
                     ]
                 },
                 {
