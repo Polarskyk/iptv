@@ -1496,8 +1496,8 @@
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
-                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
+                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867",
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd"
                     ]
                 },
                 {
@@ -1505,8 +1505,8 @@
                     "tvg_name": "涟水电视台综合",
                     "urls": [
                         "http://live1.habctv.com/ggpdsl/sd/live.m3u8",
-                        "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd",
-                        "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd"
+                        "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd",
+                        "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd"
                     ]
                 },
                 {
@@ -1663,13 +1663,6 @@
                     ]
                 },
                 {
-                    "name": "叶县",
-                    "tvg_name": "叶县",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8"
-                    ]
-                },
-                {
                     "name": "唐河一套",
                     "tvg_name": "唐河一套",
                     "urls": [
@@ -1681,22 +1674,6 @@
                     "tvg_name": "固始综合",
                     "urls": [
                         "http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "宝丰综合",
-                    "tvg_name": "宝丰综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "巩义新闻综合",
-                    "tvg_name": "巩义新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend"
                     ]
                 },
                 {
@@ -1745,13 +1722,6 @@
                     ]
                 },
                 {
-                    "name": "登封综合",
-                    "tvg_name": "登封综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8"
-                    ]
-                },
-                {
                     "name": "西华综合",
                     "tvg_name": "西华综合",
                     "urls": [
@@ -1797,25 +1767,11 @@
                     ]
                 },
                 {
-                    "name": "宜阳综合",
-                    "tvg_name": "宜阳综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend"
-                    ]
-                },
-                {
                     "name": "内黄综合",
                     "tvg_name": "内黄综合",
                     "urls": [
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8",
                         "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "偃师新闻",
-                    "tvg_name": "偃师新闻",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8"
                     ]
                 }
             ]
