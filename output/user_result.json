@@ -1495,9 +1495,9 @@
                     "tvg_name": "无锡经济",
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
+                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
-                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772"
                     ]
                 },
                 {
@@ -1844,8 +1844,7 @@
                     "tvg_name": "安多卫视",
                     "urls": [
                         "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8",
-                        "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8",
-                        "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing"
+                        "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8"
                     ]
                 }
             ]
