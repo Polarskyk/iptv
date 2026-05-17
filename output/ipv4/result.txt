@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-17 18:59:57,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-05-18 06:46:38,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -7,7 +7,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️广东频道,#genre#
@@ -36,6 +35,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 ☘️四川频道,#genre#
 
 ☘️福建频道,#genre#
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️海南频道,#genre#
 
