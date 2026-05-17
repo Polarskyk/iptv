@@ -1495,8 +1495,8 @@
                     "tvg_name": "无锡经济",
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
                         "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
                     ]
                 },
@@ -1770,8 +1770,7 @@
                     "name": "内黄综合",
                     "tvg_name": "内黄综合",
                     "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend"
+                        "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8"
                     ]
                 }
             ]
