@@ -1496,8 +1496,8 @@
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
-                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd"
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
+                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
                     ]
                 },
                 {
@@ -1505,7 +1505,6 @@
                     "tvg_name": "涟水电视台综合",
                     "urls": [
                         "http://live1.habctv.com/ggpdsl/sd/live.m3u8",
-                        "http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd",
                         "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd"
                     ]
                 },
@@ -1654,96 +1653,7 @@
         },
         {
             "group": "河南频道",
-            "channels": [
-                {
-                    "name": "义马新闻综合",
-                    "tvg_name": "义马新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "唐河一套",
-                    "tvg_name": "唐河一套",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "固始综合",
-                    "tvg_name": "固始综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "扶沟综合",
-                    "tvg_name": "扶沟综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "新县综合",
-                    "tvg_name": "新县综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "新蔡综合",
-                    "tvg_name": "新蔡综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "渑池新闻综合",
-                    "tvg_name": "渑池新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "潢川综合",
-                    "tvg_name": "潢川综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "西华综合",
-                    "tvg_name": "西华综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend"
-                    ]
-                },
-                {
-                    "name": "郸城新闻综合",
-                    "tvg_name": "郸城新闻综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569"
-                    ]
-                },
-                {
-                    "name": "项城新闻",
-                    "tvg_name": "项城新闻",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8"
-                    ]
-                },
-                {
-                    "name": "新野综合",
-                    "tvg_name": "新野综合",
-                    "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8",
-                        "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend"
-                    ]
-                }
-            ]
+            "channels": []
         },
         {
             "group": "河北频道",
