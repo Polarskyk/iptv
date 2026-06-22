@@ -1488,9 +1488,9 @@
                     "tvg_name": "无锡经济",
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
-                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867",
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772"
+                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
                     ]
                 },
                 {
@@ -1642,15 +1642,7 @@
         },
         {
             "group": "河北频道",
-            "channels": [
-                {
-                    "name": "邯郸新闻",
-                    "tvg_name": "邯郸新闻",
-                    "urls": [
-                        "https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8"
-                    ]
-                }
-            ]
+            "channels": []
         },
         {
             "group": "新疆频道",
