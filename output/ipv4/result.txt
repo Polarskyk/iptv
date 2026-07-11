@@ -1,18 +1,14 @@
 🕘️更新时间,#genre#
-2026-07-11 06:55:02,http://69.30.245.50/live/cctv6.m3u8
+2026-07-11 18:58:55,http://69.30.245.50/live/cctv6.m3u8
 
 📺央视频道,#genre#
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
-CCTV-7,http://222.223.41.27:8888/hls/7/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-13,http://222.223.41.27:8888/hls/13/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
-黑龙江卫视,http://60.10.139.113:8801/hls/27/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-吉林卫视,http://223.75.149.129:9906/tsfile/live/0116_1.m3u8?key=txiptv
 
 ☘️广东频道,#genre#
 
