@@ -44,8 +44,7 @@
                         "http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503",
                         "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8",
-                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8",
-                        "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8"
+                        "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
                     ]
                 },
                 {
@@ -268,8 +267,8 @@
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
                         "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/1.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-                        "https://idclive.hljtv.com:4430/live/hljws_own.m3u8"
+                        "https://idclive.hljtv.com:4430/live/hljws_own.m3u8",
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND"
                     ]
                 },
                 {
@@ -627,8 +626,8 @@
                         "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
                         "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
                         "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/1.m3u8",
-                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND",
-                        "https://idclive.hljtv.com:4430/live/hljws_own.m3u8"
+                        "https://idclive.hljtv.com:4430/live/hljws_own.m3u8",
+                        "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND"
                     ]
                 },
                 {
@@ -1044,9 +1043,9 @@
                     "tvg_name": "无锡经济",
                     "urls": [
                         "http://stream.thmz.com/wxtv5/playlist.m3u8",
+                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd",
                         "http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772",
-                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867",
-                        "http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd"
+                        "http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867"
                     ]
                 }
             ]
@@ -1190,7 +1189,22 @@
         },
         {
             "group": "安徽频道",
-            "channels": []
+            "channels": [
+                {
+                    "name": "宿州新闻综合",
+                    "tvg_name": "宿州新闻综合",
+                    "urls": [
+                        "http://live.ahsz.tv/video/s10001-szzh/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "亳州农村",
+                    "tvg_name": "亳州农村",
+                    "urls": [
+                        "http://zbbf2.ahbztv.com/live/418.m3u8?zanhd"
+                    ]
+                }
+            ]
         },
         {
             "group": "吉林频道",
