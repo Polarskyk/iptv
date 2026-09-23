@@ -1011,6 +1011,20 @@
                     "urls": [
                         "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8"
                     ]
+                },
+                {
+                    "name": "南京教科",
+                    "tvg_name": "南京教科",
+                    "urls": [
+                        "http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "南京新闻综合",
+                    "tvg_name": "南京新闻综合",
+                    "urls": [
+                        "http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8"
+                    ]
                 }
             ]
         },
